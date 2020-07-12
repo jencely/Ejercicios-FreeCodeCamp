@@ -1,0 +1,11 @@
+var myDog = {
+  "name": "Happy Coder",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["Free Code Camp Campers"]
+};
+
+// Only change code below this line.
+
+myDog.bark = "woof"; // Dot notation
+myDog["bark"] = "woof"; // Bracket notation

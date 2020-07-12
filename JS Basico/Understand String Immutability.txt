@@ -1,0 +1,6 @@
+
+var myStr = "Jello World";
+
+var newStr = myStr.slice(1);
+
+myStr = 'H' + newStr;
